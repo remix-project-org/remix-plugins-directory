@@ -15,48 +15,6 @@
 		"location": "sidePanel"
 	},
 	{
-		"description": "Compile Solidity Contracts (Xinghuo BIF)",
-		"displayName": "Solidity Compiler (Xinghuo BIF)",
-		"events": [],
-		"icon": "//remix.bitfactory.cn/solidity-compiler/assets/img/bif-solidity.webp",
-		"location": "sidePanel",
-		"methods": [],
-		"name": "bif-solidity",
-		"url": "//remix.bitfactory.cn/solidity-compiler/",
-		"repo": "https://github.com/caict-4iot-dev/remix-bif-plugins",
-		"documentation": "https://github.com/caict-4iot-dev/remix-bif-plugins/blob/main/apps/solidity-compiler/README.md",
-		"maintainedBy": "caict-4iot-dev",
-		"version": "0.1.0"
-	},
-	{
-		"description": "Deploy Solidity contracts & Run Transactions on Xinghuo BIF",
-		"displayName": "Deploy & Run Solidity on Xinghuo BIF",
-		"events": [],
-		"icon": "//remix.bitfactory.cn/udapp/assets/img/bif-udapp.webp",
-		"location": "sidePanel",
-		"methods": [],
-		"name": "bif-udapp",
-		"url": "//remix.bitfactory.cn/udapp/",
-		"repo": "https://github.com/caict-4iot-dev/remix-bif-plugins",
-		"documentation": "https://github.com/caict-4iot-dev/remix-bif-plugins/blob/main/apps/udapp/README.md",
-		"maintainedBy": "caict-4iot-dev",
-		"version": "0.1.0"
-	},
-	{
-		"description": "Deploy JS Contracts & Run Transactions on Xinghuo BIF",
-		"displayName": "Deploy & Run JS on Xinghuo BIF",
-		"events": [],
-		"icon": "//remix.bitfactory.cn/udapp-js/assets/img/bif-udapp-js.webp",
-		"location": "sidePanel",
-		"methods": [],
-		"name": "bif-udapp-js",
-		"url": "//remix.bitfactory.cn/udapp-js/",
-		"repo": "https://github.com/caict-4iot-dev/remix-bif-plugins",
-		"documentation": "https://github.com/caict-4iot-dev/remix-bif-plugins/blob/main/apps/udapp-js/README.md",
-		"maintainedBy": "caict-4iot-dev",
-		"version": "0.1.0"
-	},
-	{
 		"name": "buildbear",
 		"displayName": "BuildBear",
 		"methods": [],
@@ -73,20 +31,6 @@
 		"repo": "https://github.com/BuildBearLabs/buildbear-remix-plugin",
 		"maintainedBy": "BuildBear Team",
 		"authorContact": "team@buildbear.io"
-	},
-	{
-		"name": "contract_deployer",
-		"displayName": "Contract Deployer",
-		"methods": [],
-		"version": "0.1.0-alpha",
-		"url": "https://contract-deployer-plugin.surge.sh/",
-		"repo": "https://github.com/hexdivision/remix-contract-deployer-plugin",
-		"documentation": "https://github.com/hexdivision/remix-contract-deployer-plugin#getting-started-with-contract-deployer-plugin",
-		"maintainedBy": "",
-		"authorContact": "",
-		"description": "Deploy a compiled contract to the same address on multiple networks",
-		"icon": "data:image/webp;base64,UklGRmYCAABXRUJQVlA4TFkCAAAvVoAVEL+goG0jx8f9YI+fIBS0bcO43At7R0HbNozLvbB3DESS4ZOoon8ZKwGCSZpqOwaVbddMAAsAgMN/H8kDrP8AwPof0JJtt25cnQYPIbYtmU5TsOc/VkC0IjK5j6+I/k8ATq7sXQHA2FsAwNirACDs/hrnNSuZlf1lvSa0OZTZqCFM97ncE473PBFFt01E+rBNY4VP70cLUp7F7kRJrg5lFl9upTe3zQJeg+bqcHv05Upgc2iRuVcmWeDLLDYHud8qvHAWObnO5zR46xPOg88e0ZnwJge/Mg+XMapLekTe3mb7I7OzjrE5iHZ8XjGGJgfR0yrCX5fjGkD0pIrwh9fjkhxET6kIfzgCF3GQfMKK8IdjUMXhfsIr+OEoXE77cjvHof2WMlKd1XtW7U+0DFTE7frRBr/rKGo4fPctgsM6hgo6X7ljSehsQwi630cq6N4GeODDctDQn/L1xEnJ+gzekcK/Sl6aw3a5BV5JsjqJvp0oSZrbL/ftjD47RNW96b+dXG51e8DPalDGWFzKrrgUbc6CzdnlcgKARlLFWbQ4VJIluffluDvIbgl+jWgO0gxhuZ4mdyw8LMFx4/X46BI94rNLdAQ+OmRh77PjpRyC2oL0zOxXC15PfnwZMpd1XXhiLuuqPPFCV/8/US6lFI2Kj7SUUnSkFQBqoPBRA4D7vz43M7M1oJlZi6qZWRnp6v87u/r934F6AubYPluw6OBvlz5bUTl4digfCZIORnOSP6gARAdbHVrfAi86FsVh1457CoCmQ5UAUjUoht5XGzkFAKy1lhADAA==",
-		"location": "sidePanel"
 	},
 	{
 		"name": "cookbookdev",
@@ -125,25 +69,6 @@
 		"location": "sidePanel",
 		"maintainedBy": "COTI team",
 		"authorContact": "product@coti.io"
-	},
-	{
-		"name": "dapp-draft",
-		"displayName": "Quick Dapp",
-		"description": "Edit & deploy a Dapp",
-		"version": "0.2.0",
-		"methods": [
-			"edit"
-		],
-		"kind": "none",
-		"icon": "https://remix-dapp-draft-plugin.pages.dev/dappDraft.webp",
-		"location": "mainPanel",
-		"url": "https://remix-dapp-draft-plugin.pages.dev/",
-		"repo": "https://github.com/drafish/remix-dapp-draft-plugin",
-		"maintainedBy": "Remix",
-		"authorContact": "https://github.com/drafish",
-		"targets": [
-			"remix"
-		]
 	},
 	{
 		"name": "defender-deploy",
@@ -355,20 +280,6 @@
 		"authorContact": "",
 		"version": "0.1.0-beta",
 		"location": "sidePanel"
-	},
-	{
-		"name": "ZKsync",
-		"displayName": "ZKsync",
-		"methods": [],
-		"version": "0.1.0",
-		"url": "https://zksync-remix-plugin.zksync.io/",
-		"description": "Compile and deploy smart contracts for ZKsync chains.",
-		"icon": "https://zksync-remix-plugin.zksync.io/icon.webp",
-		"location": "sidePanel",
-		"documentation": "https://github.com/matter-labs/zksync-remix-plugin",
-		"repo": "https://github.com/matter-labs/zksync-remix-plugin",
-		"maintainedBy": "Matter Labs",
-		"authorContact": "hello@matterlabs.dev"
 	},
 	{
 		"name": "ZoKrates",
