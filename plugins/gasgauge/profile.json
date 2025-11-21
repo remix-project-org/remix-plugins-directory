@@ -1,0 +1,14 @@
+{
+  "name": "gasgauge",
+  "displayName": "GasGauge",
+  "description": "Enhance Remix gas calculations. See the cost of running your functions in 48 different fiat currencies, giving you a clearer picture of real-world expenses for your smart contract operations.",
+  "version": "0.0.1",
+  "events": [],
+  "methods": [],
+  "kind": "none",
+  "icon": "https://gasgauge-remix-ide-plugin-cooldev1337.pages.dev/icon.png",
+  "location": "sidePanel",
+  "url": "https://gasgauge-remix-ide-plugin-cooldev1337.pages.dev/",
+  "maintainedBy": "cooldev1337",
+  "authorContact": ""
+}
