@@ -1,0 +1,14 @@
+{
+  "name": "medusa-ai-auditor",
+  "displayName": "Medusa AI Auditor",
+  "methods": [],
+  "version": "2.1.0",
+  "url": "https://remix-plugin.vercel.app",
+  "description": "AI-Powered Smart Contract Security Auditor — ERC-8004 Registered Agent #127076 on BNB Chain. Audit Solidity contracts with on-chain immutable seals. Express (0.05 BNB) and Premium (0.5 BNB) tiers.",
+  "icon": "https://medusaaudits.com/medusa-coin.png",
+  "location": "sidePanel",
+  "documentation": "https://medusaaudits.com/start",
+  "repo": "https://github.com/MedusaAudits/remix-plugin",
+  "maintainedBy": "Medusa AI",
+  "authorContact": "contact@medusaaudits.com"
+}
