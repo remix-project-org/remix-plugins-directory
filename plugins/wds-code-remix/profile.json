@@ -1,7 +1,7 @@
 {
   "name": "wds-code-remix",
   "displayName": "CODE BY WELLDONE STUDIO",
-  "description": "Multi-Chain Deploy and Run Transactions",
+  "description": "Deploy and run Sui Move contracts",
   "events": [],
   "methods": [],
   "url": "https://remix-plugin.welldonestudio.io",
