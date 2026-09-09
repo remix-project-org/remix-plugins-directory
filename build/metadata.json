@@ -1,20 +1,5 @@
 [
 	{
-		"name": "arbitrum-stylus",
-		"displayName": "ARBITRUM STYLUS",
-		"description": "Deployment and execution of smart contracts via Arbitrum Stylus",
-		"events": [],
-		"methods": [],
-		"url": "https://remix-plugin-arbitrum.welldonestudio.io",
-		"icon": "https://remix-plugin.welldonestudio.io/icon.png",
-		"repo": "https://github.com/dsrvlabs/arbitrum-stylus",
-		"documentation": "https://docs.welldonestudio.io/code",
-		"maintainedBy": "DSRV",
-		"authorContact": "",
-		"version": "0.1.0-beta",
-		"location": "sidePanel"
-	},
-	{
 		"name": "buildbear",
 		"displayName": "BuildBear",
 		"methods": [],
@@ -245,7 +230,7 @@
 	{
 		"name": "wds-code-remix",
 		"displayName": "CODE BY WELLDONE STUDIO",
-		"description": "Multi-Chain Deploy and Run Transactions",
+		"description": "Deploy and run Sui Move contracts",
 		"events": [],
 		"methods": [],
 		"url": "https://remix-plugin.welldonestudio.io",
