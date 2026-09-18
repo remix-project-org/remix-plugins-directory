@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "url": "https://remix.solidityscan.com/",
   "description": "An automated smart contract auditing & vulnerability scanning tool built to discover vulnerabilities & proactively address risks within your code.",
-  "icon": "https://web-assets.solidityscan.com/web-assets/solidity_scan_assets/images/logo/logo192.png",
+  "icon": "https://web-assets.solidityscan.com/web-assets/solidity_scan_assets/images/logo/logo192.webp",
   "location": "sidePanel",
   "documentation": "https://docs.solidityscan.com/remix/",
   "maintainedBy": "Credshields",
